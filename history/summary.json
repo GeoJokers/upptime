@@ -4,18 +4,20 @@
     "url": "http://www.geojokers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.geojokers.com.ico",
     "slug": "geo-jokers-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 171,
-    "timeWeek": 187,
-    "timeMonth": 258,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 270,
+    "timeWeek": 210,
+    "timeMonth": 261,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2023-05-01": 0
+    }
   },
   {
     "name": "GeoJokers.de",
