@@ -22,7 +22,7 @@
     "url": "https://www.geojokers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.geojokers.de.ico",
     "slug": "geo-jokers-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 766,
     "timeMonth": 676,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   }
 ]
