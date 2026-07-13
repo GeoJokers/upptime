@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 313,
-    "timeWeek": 273,
-    "timeMonth": 263,
+    "timeDay": 218,
+    "timeWeek": 268,
+    "timeMonth": 262,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.geojokers.de.ico",
     "slug": "geo-jokers-de",
     "status": "down",
-    "uptime": "15.54%",
+    "uptime": "15.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 221,
+      "2026-07-13": 223,
+      "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -397,8 +398,7 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
-      "2025-07-13": 1440
+      "2025-07-14": 1440
     }
   }
 ]
